@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/c/VishalChougule09)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/vishalchougule-dkte/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/17895298/vishal-chougule)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Vishal Chougule-red)](https://www.youtube.com/c/VishalChougule09)
+[![Linkedin Badge](https://img.shields.io/badge/-Vishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishalchougule-dkte//)](https://www.linkedin.com/in/vishalchougule-dkte/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Vishal-green)]()
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Vishal-yellow)](https://stackoverflow.com/users/17895298/vishal-chougule)
 
 I'm
 Full Stack Developement Intern and Electronics Engineer
