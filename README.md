@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Vishal Chougule-red)](https://www.youtube.com/c/VishalChougule09)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Vishal-red)](/https://www.youtube.com/c/VishalChougule09)
 [![Linkedin Badge](https://img.shields.io/badge/-Vishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishalchougule-dkte//)](https://www.linkedin.com/in/vishalchougule-dkte/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Vishal-green)]()
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Vishal-yellow)](https://stackoverflow.com/users/17895298/vishal-chougule)
